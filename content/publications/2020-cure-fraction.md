@@ -4,13 +4,12 @@ date: 2020-02-01
 slug: cure fraction
 title: "The relative survival and cure fraction of gastric cancer estimated through flexible parametric models using data from population-based cancer registration during 2003-2012 in Linzhou, China."
 kind: article
-citation: "<em>Cancer Medicine</em>, 8(2), 814-823 (2019). doi: 10.1002/cam4.1952"
+citation: "<em>Cancer Medicine</em>, 9(6), 2243-2251 (2020). doi:10.1002/cam4.2831"
 tags:
-- 肿瘤登记
 - cure model
 - gastric cancer
-link: 
-doi: 
+link: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.2831
+doi: 10.1002/cam4.2831
 ---
 
 ## Purpose:  
