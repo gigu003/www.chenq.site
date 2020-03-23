@@ -7,7 +7,7 @@ kind: article
 citation: "<em>Cancer epidemiology, biomarkers & prevention</em>, 22(7), 1332-1335 (2013). doi:10.1158/1055-9965.epi-13-0328"
 tags:
 - non-Hodgkin lymphoma
-link: 
+link: https://cebp.aacrjournals.org/content/cebp/22/7/1332.full.pdf
 doi: 10.1158/1055-9965.epi-13-0328
 ---
 
