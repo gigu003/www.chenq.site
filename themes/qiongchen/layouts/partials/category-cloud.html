@@ -1,0 +1,18 @@
+<section class="panel panel-default">
+<div class='sans'>
+    <h4>所有分类</h4>
+<ul class="taxonomy-terms">
+    {{ range .Site.Taxonomies.categories }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>({{ .Count }})</li>
+    {{ end }}
+</ul>
+
+    <h4>所有标签</h4>
+<ul class="taxonomy-terms">
+    {{ range .Site.Taxonomies.tags }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>({{ .Count }})</li>
+    {{ end }}
+</ul>
+
+</div>
+</section>

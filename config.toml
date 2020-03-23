@@ -1,0 +1,78 @@
+baseurl = "https://chenq.site/"
+title = "Qiong Chen"
+canonifyurls = true
+relativeurls = false
+paginate = 10
+theme = "qiongchen"
+DisqusShortname = "researchtips"
+googleAnalytics = "UA-5004894-1"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+pluralizeListTitles = false
+buildFuture = true
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+date_format = "2006-01-02"
+
+# Number of posts to show on main page.
+posts_count = 30
+
+# Number of publications to show on main page.
+pubs_count = 5
+
+# Number of seminars to show on main page.
+seminars_count = 5
+
+# options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "tex"]
+  highlightjsTheme = "github"
+
+[[params.social]]
+  icon = "university"
+  icon_pack = "fa"
+  link = "http://anti-cancer.com.cn/"
+  text = "河南省癌症中心/郑州大学附属肿瘤医院/河南省肿瘤医院，疾病预防控制办公室/肿瘤防办，450008，郑州，中国."
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:chenq08@126.com"
+  text = "邮件chenq08@126.com"
+
+[[params.social]]
+  icon = "github-alt"
+  icon_pack = "fa"
+  link = "https://github.com/gigu003/"
+  text = "gigu003"
+  site = "GitHub"
+
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "博客"
+  url = "/blogspot/"
+  weight = 1
+
+[[menu.main]]
+  name = "出版物"
+  url = "/publications/"
+  weight = 2
+
+[[menu.main]]
+  name = "会议"
+  url = "/seminars/"
+  weight = 4
+
+[[menu.main]]
+  name = "关于"
+  url = "/about/"
+  weight = 6
+
