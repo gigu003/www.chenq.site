@@ -7,7 +7,7 @@ kind: article
 citation: "<em>河南省医学研究</em>, 27(15)"
 tags:
 - 肺癌
-file: ../papers/2012_lung.pdf
+file: ../papers/2018_lung_cancer.pdf
 doi: 10.3969/j.issn.1004-437X.2018.15.001
 ---
 

@@ -7,7 +7,7 @@ kind: article
 citation: "<em>河南省医学研究</em>, 2019,28(8)"
 tags:
 - 恶性肿瘤
-file: ../papers/2012_lung.pdf
+file: ../papers/2019_total_cancer.pdf
 doi: 10.3969/j.issn.1004-437X.2019.08.001
 ---
 
