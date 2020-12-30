@@ -1,5 +1,5 @@
 ---
-author:  Qiong Chen
+author:  Qiong Chen, Weiwei Wu, Hailan Yang, Ping Zhang, Yongliang Feng, Keke Wang, Ying Wang, Suping Wang, Yawei Zhang
 date: 2020-09-11
 slug: vegetable
 title: "A Vegetable Dietary Pattern Is Associated with Lowered Risk of Gestational Diabetes Mellitus in Chinese Women"

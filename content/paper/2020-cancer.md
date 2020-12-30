@@ -1,5 +1,5 @@
 ---
-author:  Qiong Chen
+author:  陈琼,刘曙正,郭兰伟,曹小琴,郑黎阳,徐慧芳,孙喜斌,张韶凯,张建功
 date: 2020-04-01
 slug: cancer
 title: "2016年河南省恶性肿瘤的发病与死亡分析"

@@ -1,5 +1,5 @@
 ---
-author:  Qiong Chen
+author:  Qiong Chen, Shu-Zheng Liu, Shao-Kai Zhang, Xiao-Qin Cao, Bian-Yun Li, Pei-Liang Quan, Lan-Wei Guo, Lee Dong, Xi-Bin Sun, Yawei Zhang, Jian-Gong Zhang
 date: 2020-02-01
 slug: cure fraction
 title: "The relative survival and cure fraction of gastric cancer estimated through flexible parametric models using data from population-based cancer registration during 2003-2012 in Linzhou, China."
