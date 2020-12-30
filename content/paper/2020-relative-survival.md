@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen
 date: 2020-01-28
-slug: relative-survival
+slug: relative_survival
 title: "The relative survival and cure fraction of gastric cancer estimated through flexible parametric models using data from population‐based cancer registration during 2003‐2012 in Linzhou, China"
 ---
 

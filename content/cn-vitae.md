@@ -53,29 +53,29 @@ Email: Chenq08@126.com；个人主页：<https://chenq.site>；
 
 ### 中文论文
 
-1. 陈琼,郑荣寿,张韶凯,张思维,刘曙正,孙喜斌,魏文强, 赫捷. (2020) 2015年中国肾及泌尿系统其它癌发病死亡情况分析. 中华肿瘤杂志, 2020, 42(12):1001-1006.
-([Abstract](https://www.chenq.site/paper/2020/02/kidney)) ([PDF](https://www.e-dmj.org/upload/pdf/dmj-2019-0138.pdf))
+1. 陈琼,郑荣寿,张韶凯,张思维,刘曙正,孙喜斌,魏文强, 赫捷. (2020) 2015年中国肾及泌尿系统其它癌发病死亡情况分析. 中华肿瘤杂志, 2020, 42(12):1001-1006. DOI:10.3760/cma.j.cn112152-20200309-00184.
+([摘要](https://www.chenq.site/paper/2020/02/kidney)) ([PDF](https://www.e-dmj.org/upload/pdf/dmj-2019-0138.pdf))
 1. 陈琼,刘曙正,郭兰伟，曹小琴，郑黎阳，徐慧芳，孙喜斌，张韶凯，张建功. (2020) 2016年河南省恶性肿瘤的发病与死亡分析. 中国肿瘤, 2020, 29(8), 571-578. DOI:10.11735/j.issn.1004-0242.2020.08.A003.
-([Abstract](https://www.chenq.site/paper/2020/04/cancer)) 
+([摘要](https://www.chenq.site/paper/2020/04/cancer)) ([PDF](http://www.chinaoncology.cn/zgzl8/ch/reader/create_pdf.aspx?file_no=A202008003&year_id=2020&quarter_id=8&falg=1))
 1. 陈琼, 刘曙正, 全培良, 曹小琴, 张韶凯, 郭兰伟, 孙喜斌, 张建功. (2019) 2015年河南省恶性肿瘤发病与死亡情况分析. 河南省医学研究, 2019,28(8).
-([Abstract](https://www.chenq.site/paper/2019/08/恶性肿瘤)) 
+([摘要](https://www.chenq.site/paper/2019/08/恶性肿瘤)) 
 1. 陈琼, 于亮, 刘曙正, 郝长青, 张萌, 王进武, 张韶凯, 郭兰伟, 全培良, 孙喜斌. (2018) 林州市上消化道癌内窥镜筛查效果评价研究. 中国肿瘤, 2018, 27(3):198-201.  DOI:10.11735/j.issn.1004-0242.2018.03.A006.
-([Abstract](https://www.chenq.site/paper/2018/09/screening)) 
+([摘要](https://www.chenq.site/paper/2018/09/screening))  ([PDF](http://www.chinaoncology.cn/zgzl8/ch/reader/create_pdf.aspx?file_no=A201803006&year_id=2018&quarter_id=3&falg=1))
 1. 陈琼, 刘曙正, 全培良, 曹小琴, 张萌, 张韶凯, 郭兰伟, 孙喜斌. (2018) 2014年河南省肺癌发病与死亡情况估计. 河南省医学研究, 2018, 27(15). 
 1. 陈琼 (2018) 饮食模式及胰岛素信号通路基因多态性与妊娠期糖尿病发病风险的关系. 博士学位论文,(2018). 
-([Abstract](https://www.chenq.site/paper/2018/06/GDM)) 
+([摘要](https://www.chenq.site/paper/2018/06/GDM)) 
 1. 陈琼, 刘志才, 程兰平, 宋国慧, 孙喜斌, 郑荣寿, 张思维, 陈万青. (2012) 2003-2007年中国结直肠癌发病与死亡分析. 中国肿瘤, 2012, 21(3):179-182. 
-([Abstract](https://www.chenq.site/paper/2013/02/colorectal)) 
+([摘要](https://www.chenq.site/paper/2013/02/colorectal)) ([PDF](http://www.chinaoncology.cn/zgzl8/ch/reader/create_pdf.aspx?file_no=A201203003&year_id=2012&quarter_id=3&falg=1))
 1. 陈琼 (2011) 甘肃省孕产妇对叶酸增补知识认知现况调查. 硕士学位论文, (2011).
-([Abstract](https://www.chenq.site/paper/2011/06/folate)) 
+([摘要](https://www.chenq.site/paper/2011/06/folate)) 
 1. 陈琼,白亚娜,胡晓斌,刘武,王敏珍,李玮,史晓媛,程宁. (2010) 甘肃省孕产妇对叶酸增补知识认知现况调查. 中国妇幼保健, 2010, 25(32), 4725-4727. 
-([Abstract](https://www.chenq.site/paper/2010/11/folate_survey)) 
+([摘要](https://www.chenq.site/paper/2010/11/folate_survey)) 
 
 ### 英文论文
 1. **Qiong Chen**,Weiwei Wu, Hailan Yang, Ping Zhang, Yongliang Feng, Keke Wang, Ying Wang, Suping Wang, Yawei Zhang. (2020) *A Vegetable Dietary Pattern Is Associated with Lowered Risk of Gestational Diabetes Mellitus in Chinese Women*. **Diabetes Metab J**, 2020, 44(6):887-896. doi:10.4093/dmj.2019.0138. 
-([Abstract](https://www.chenq.site/paper/2019/08/恶性肿瘤)) ([PDF](https://www.e-dmj.org/upload/pdf/dmj-2019-0138.pdf))
+([Abstract](https://www.chenq.site/paper/2020/09/vegetable)) ([PDF](https://www.e-dmj.org/upload/pdf/dmj-2019-0138.pdf))
 1. **Qiong Chen**, Shu-Zheng Liu, Shao-kai Zhang, Xiao-Qin Cao, Bian-Yun Li, Pei-Liang Quan, Lan-Wei Guo, Dong Lee, Xi-Bin Sun, Yawei Zhang, Jian-Gong Zhang. (2020) *The relative survival and cure fraction of gastric cancer estimated through flexible parametric models using data from population-based cancer registration during 2003-2012 in Linzhou, China*. **Cancer Medicine**, 2020, 9(6), 2243-2251. doi:10.1002/cam4.2831. 
-([Abstract](https://www.chenq.site/paper/2020/01/relative/survival)) ([PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.2831))
+([Abstract](https://www.chenq.site/paper/2020/01/relative_survival)) ([PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.2831))
 1. Keke Wang, **Qiong Chen**, Yongliang Feng, Hailan Yang, Weiwei Wu, Ping Zhang, Ying Wang, Jamie Ko, Feng Zhao, Wenqiong Du, Feifei Yang, Tianbi Han, Suping Wang, and Yawei Zhang. (2019) *Single Nucleotide Polymorphisms in CDKAL1 Gene Are Associated with Risk of Gestational Diabetes Mellitus in Chinese Population*. **Journal of diabetes research**, 2019, 3618103. doi:10.1155/2019/3618103. 
 ([Abstract](https://www.chenq.site/paper/2019/07/cdkal1)) ([PDF](http://downloads.hindawi.com/journals/jdr/2019/3618103.pdf))
 1. **Qiong Chen**, Yongliang Feng, Hailan Yang, Weiwei Wu, Ping Zhang, Keke Wang, Ying Wang, Jamie Ko, Jiaxin Shen, Lingling Guo, Feng Zhao, Wenqiong Du, Shouhang Ru, Suping Wang, Yawei Zhang. (2019) *A Vitamin Pattern Diet Is Associated with Decreased Risk of Gestational Diabetes Mellitus in Chinese Women: Results from a Case Control Study in Taiyuan, China*. **Journal of diabetes research**, 2019, doi:10.1155/2019/5232308. 
