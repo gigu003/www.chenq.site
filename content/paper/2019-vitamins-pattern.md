@@ -1,5 +1,5 @@
 ---
-author:  Qiong Chen, Yongliang Feng, Hailan Yang, Weiwei Wu, Ping Zhang, Keke Wang, Ying Wang, Jamie Ko, Jiaxin Shen, Lingling Guo, Feng Zhao, Wenqiong Du, Shouhang Ru, Suping Wang, Yawei Zhang.
+author:  Qiong Chen
 date: 2019-03-05
 slug: vitamin dietary pattern
 title: "A Vitamin Pattern Diet Is Associated with Decreased Risk of Gestational Diabetes Mellitus in Chinese Women: Results from a Case Control Study in Taiyuan, China."

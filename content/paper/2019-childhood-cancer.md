@@ -1,5 +1,5 @@
 ---
-author:  Qiong Chen, Zhen Guo, Shuzheng Liu, Peiliang Quan, Xiaoqin Cao, Lanwei Guo, Shaokai Zhang, Xibin Sun.
+author:  Qiong Chen
 date: 2019-01-01
 slug: vitamin dietary pattern
 title: "The cancer incidence and mortality among children and adolescents during the period of 2010-2014 in Henan Province, China."
