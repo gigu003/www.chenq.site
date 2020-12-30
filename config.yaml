@@ -65,7 +65,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/gigu003/www.chenq.site/tree/master/content"
+  githubContentURL: "https://github.com/gigu003/www.chenq.site/tree/master/content/"
   twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
