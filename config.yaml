@@ -1,0 +1,114 @@
+baseurl: "https://chenq.site/"
+languageCode: "en-us"
+title: "Qiong Chen | 陈琼"
+theme: "hugo-ivy"
+disqusShortname: "chenq"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 100
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+  paper: "/paper/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 1
+    - name: "日志"
+      url: "/cn/"
+      weight: 2
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 3
+    - name: "Vitae"
+      url: "/cn/vitae2/"
+      weight: 4
+    - name: "肿瘤登记"
+      url: "/en/"
+      weight: 5
+
+  en:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/en/about/"
+      weight: 2
+    - name: "讲座"
+      url: "/en/"
+      weight: 3
+    - name: "blog"
+      url: "/cn/"
+      weight: 4
+    - name: "登记年报"
+      url: "/cn/"
+      weight: 5
+
+
+params:
+  description: "Personal website of Qiong Chen; 陈琼的个人网站"
+  footer: "&copy; [Qiong Chen](/) 2010 - 2020" 
+
+  disqusURL: "http://chenq.site"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  githubContentURL: "https://github.com/gigu003/www.chenq.site/tree/master/content"
+  twitterImage: "/images/logo.png"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.png"
+      url: "/"
+      alt: "Qiong Chen"
+      tag: ""
+    knitr:
+      img: "/knitr/images/knit-logo.png"
+      url: "/knitr/"
+      alt: "knitr logo"
+      tag: "knitr: elegant, flexible, and fast dynamic report generation with R"
+    tinytex:
+      img: "/images/logo-tinytex.png"
+      url: "/tinytex/"
+      alt: "tinytex logo"
+      tag: "TinyTeX: A lightweight and easy-to-maintain LaTeX distribution"
+
+  author:
+    en: "Qiong Chen"
+    cn: "陈琼"
+
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
