@@ -43,12 +43,12 @@ Email: Chenq08@126.com；个人主页：<https://chenq.site>；
 1. 2013河南省肿瘤登记年报, 军事医学科学出版社. (2013).
 1. 中国癌症发病与死亡2003-2007，结直肠与肛门癌章节，(2012).
 
-<img src="https://www.chenq.site/img/cover/2018.jpg" width="120" height="150" />
-<img src="https://www.chenq.site/img/cover/2017.jpg" width="120" height="150" />
-<img src="https://www.chenq.site/img/cover/2016.jpg" width="120" height="150"  />
-<img src="https://www.chenq.site/img/cover/2015.jpg" width="120" height="150"  />
-<img src="https://www.chenq.site/img/cover/2014.jpg" width="120" height="150"  />
-<img src="https://www.chenq.site/img/cover/2013.jpg" width="120" height="150"  />
+<img src="https://www.chenq.site/images/cover/2018.jpg" width="120" height="150" />
+<img src="https://www.chenq.site/images/cover/2017.jpg" width="120" height="150" />
+<img src="https://www.chenq.site/images/cover/2016.jpg" width="120" height="150"  />
+<img src="https://www.chenq.site/images/cover/2015.jpg" width="120" height="150"  />
+<img src="https://www.chenq.site/images/cover/2014.jpg" width="120" height="150"  />
+<img src="https://www.chenq.site/images/cover/2013.jpg" width="120" height="150"  />
 
 
 ### 中文论文
