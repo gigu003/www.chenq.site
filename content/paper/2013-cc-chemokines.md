@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen, Shu-Zheng Liu, Shao-kai Zhang, Xiao-Qin Cao, Bian-Yun Li, Pei-Liang Quan, Lan-Wei Guo, Dong Lee, Xi-Bin Sun, Yawei Zhang, Jian-Gong Zhang.
 date: 2013-02-01
-slug: cc chemokine
+slug: cc_chemokine
 title: "Single-nucleotide polymorphisms in genes encoding for CC chemokines were not associated with the risk of non-Hodgkin lymphoma."
 ---
 

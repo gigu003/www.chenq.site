@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen, Liang Yu,  Chang‐qing Hao,  Jin‐wu Wang,  Shu‐zheng Liu,  Meng Zhang,  Shao‐kai Zhang,  Lan‐wei Guo,  Pei‐liang Quan,  Nan Zhao,  Ya‐wei Zhang,  Xi‐bin Sun.
 date: 2016-08-01
-slug: screenign effect
+slug: gastric
 title: "Effectiveness of endoscopic gastric cancer screening in a rural area of Linzhou, China: results from a case-control study."
 ---
 

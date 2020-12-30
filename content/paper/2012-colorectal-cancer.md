@@ -1,7 +1,7 @@
 ---
 author:  陈琼, 刘志才, 程兰平,  宋国慧,  孙喜斌,  郑荣寿,  张思维,  陈万青.  
 date: 2013-02-01
-slug: colorectal cancer
+slug: colorectal
 title: "2003-2007年中国结直肠癌发病与死亡分析."
 ---
 

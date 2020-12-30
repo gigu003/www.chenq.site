@@ -1,7 +1,7 @@
 ---
 author:  陈琼
 date: 2020-02-01
-slug: "kidney cancer"
+slug: kidney
 title: "2015年中国肾及泌尿系统其它癌发病死亡情况分析"
 ---
 

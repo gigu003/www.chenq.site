@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen
 date: 2019-01-01
-slug: vitamin dietary pattern
+slug: childhood
 title: "The cancer incidence and mortality among children and adolescents during the period of 2010-2014 in Henan Province, China."
 ---
 

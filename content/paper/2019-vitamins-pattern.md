@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen
 date: 2019-03-05
-slug: vitamin dietary pattern
+slug: vitamin
 title: "A Vitamin Pattern Diet Is Associated with Decreased Risk of Gestational Diabetes Mellitus in Chinese Women: Results from a Case Control Study in Taiyuan, China."
 ---
 

@@ -1,7 +1,7 @@
 ---
 author:  Qiong Chen, Liang Yu, Changqing Hao, Jinwu Wang, Shuzheng Liu, Meng Zhang, Shaokai Zhang, Lanwei Guo, Peiliang Quan, Patrick Germain, Yawei Zhang, Xibin Sun. 
 date: 2016-10-19
-slug: screenign effect
+slug: esophagus
 title: "Effectiveness evaluation of organized screening for esophageal cancer: a case-control study in Linzhou city, China."
 ---
 
