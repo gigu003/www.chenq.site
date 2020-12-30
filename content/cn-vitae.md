@@ -66,7 +66,7 @@ Email: Chenq08@126.com；个人主页：<https://chenq.site>；
 ([摘要](https://www.chenq.site/paper/2018/06/GDM)) 
 1. 陈琼, 刘志才, 程兰平, 宋国慧, 孙喜斌, 郑荣寿, 张思维, 陈万青. (2012) 2003-2007年中国结直肠癌发病与死亡分析. 中国肿瘤, 2012, 21(3):179-182. 
 ([摘要](https://www.chenq.site/paper/2013/02/colorectal)) ([PDF](http://www.chinaoncology.cn/zgzl8/ch/reader/create_pdf.aspx?file_no=A201203003&year_id=2012&quarter_id=3&falg=1))
-1. 陈琼 (2011) 甘肃省孕产妇对叶酸增补知识认知现况调查. 硕士学位论文, (2011).
+1. 陈琼. (2011) 甘肃省孕产妇对叶酸增补知识认知现况调查. 硕士学位论文, (2011).
 ([摘要](https://www.chenq.site/paper/2011/06/folate)) 
 1. 陈琼,白亚娜,胡晓斌,刘武,王敏珍,李玮,史晓媛,程宁. (2010) 甘肃省孕产妇对叶酸增补知识认知现况调查. 中国妇幼保健, 2010, 25(32), 4725-4727. 
 ([摘要](https://www.chenq.site/paper/2010/11/folate_survey)) 
