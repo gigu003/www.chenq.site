@@ -52,7 +52,7 @@ menu:
 
 params:
   description: "Personal website of Qiong Chen; 陈琼的个人网站"
-  footer: "&copy; [Qiong Chen](/) 2010 - 2020" 
+  footer: "&copy; [Qiong Chen](/) 2010 - 2021" 
 
   disqusURL: "http://chenq.site"
   customJS:
