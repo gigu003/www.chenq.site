@@ -11,7 +11,7 @@ disable_comments: true
 
 ## Contact Information
 
-Email:  Chenq08@126.com；Homepage: <https://chenq.site>; 
+Email:  Chenq08@126.com；Homepage: <https://chenq.site>; [<img src="https://www.chenq.site/images/qc.jpeg" style="max-width:15%;min-width:5px;float:right;" alt="Qiong Chen" />](https://www.chenq.site) 
 
 [<img src="https://simpleicons.org/icons/googlescholar.svg" style="max-width:4%;min-width:3px;float:left;" alt="Google Scholar" />](https://scholar.google.com/citations?user=KKgW5AwAAAAJ&hl=en) [Google Schoolar Page](https://scholar.google.com/citations?user=KKgW5AwAAAAJ&hl=zh-CN)
 
@@ -36,6 +36,8 @@ Email:  Chenq08@126.com；Homepage: <https://chenq.site>;
 
 
 ### Books and Book Chapters
+
+1. Cancer Report in Henan, 2020. Henan Science and Technology Press. (2020), deputy editor-in-chief.
 1. Cancer Report in Henan, 2019. Henan Science and Technology Press. (2019), deputy editor-in-chief.
 1. Cancer Report in Henan, 2018. Zhengzhou University Press. (2018), deputy editor-in-chief.
 1. Cancer Report in Henan, 2017. Henan Science and Technology Press. (2017), deputy editor-in-chief.
