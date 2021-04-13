@@ -1,12 +1,13 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Work Learn Paper "
 slug: "cn/vitae2"
 disable_comments: true
 ---
 
+[中文](http://www.chenq.site/cn/vitae) / [English](http://www.chenq.site/cn/vitae2)
+
 # Qiong Chen
-
-
 
 ## Contact Information
 
@@ -25,10 +26,10 @@ Email:  Chenq08@126.com；Homepage: <https://chenq.site>;
 1. 2011.07--Now，Henan Cancer Center, Affiliated Cancer Hospital of Zhengzhou University / Henan Cancer Hospital，major in population based Cancer Registration.
 2. 2012.08--2013.09, Visiting scholar in Department of Environmental Health Medicine, School of Public Health, Yale University.
 
-#### 任职情况
+#### Social work
 
-- 中国癌症筛查与早诊早治专业委员会 青年委员（2020 - ）
-- 河南省医学会 肿瘤预防与控制专业委员会委员（2016-）
+- Youth committee member of China Professional Committee for Cancer screening and early diagnosis and early treatment (2020 - )
+- Member of the Professional Committee for Cancer Prevention and Control of Henan Medical Association (2016 -)
 
 
 ## Publications

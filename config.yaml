@@ -22,15 +22,12 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 2
-    - name: "简历"
+    - name: "简历/Vitae"
       url: "/cn/vitae/"
       weight: 3
-    - name: "Vitae"
-      url: "/cn/vitae2/"
-      weight: 4
     - name: "肿瘤登记"
       url: "/en/"
-      weight: 5
+      weight: 4
 
   en:
     - name: "首页"

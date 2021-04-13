@@ -1,9 +1,11 @@
 ---
 title: "简历"
-subtitle: [中文](www.chenq.site/cn/viate) [English](www.chenq.site/cn/vitate2)
+subtitle:  工作 学习 文章 成果
 slug: "cn/vitae"
 disable_comments: true
 ---
+
+[中文](http://www.chenq.site/cn/vitae) / [English](http://www.chenq.site/cn/vitae2)
 
 # 陈  琼
 
