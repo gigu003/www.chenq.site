@@ -44,6 +44,8 @@ Email:  Chenq08@126.com；Homepage: <https://chenq.site>;
 1. Cancer Report in Henan, 2013. Military Medical Science Press. (2013).
 1. Cancer incidence and mortality in China 2003-2007，Chapter 9: Colorectal cancer，(2012).
 
+<img src="https://www.chenq.site/images/cover/2020.jpg" width="120" height="150" />
+<img src="https://www.chenq.site/images/cover/2019.jpg" width="120" height="150" />
 <img src="https://www.chenq.site/images/cover/2018.jpg" width="120" height="150" />
 <img src="https://www.chenq.site/images/cover/2017.jpg" width="120" height="150" />
 <img src="https://www.chenq.site/images/cover/2016.jpg" width="120" height="150"  />
