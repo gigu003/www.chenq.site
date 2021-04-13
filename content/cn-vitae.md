@@ -1,5 +1,6 @@
 ---
 title: "简历"
+subtitle: [中文](www.chenq.site/cn/viate) [English](www.chenq.site/cn/vitate2)
 slug: "cn/vitae"
 disable_comments: true
 ---
