@@ -10,8 +10,8 @@ disable_comments: true
 # 陈  琼
 
 ## 联系方式
- 
-Email: Chenq08@126.com；个人主页：<https://chenq.site>；[<img src="https://www.chenq.site/images/qc.jpeg" style="max-width:15%;min-width:5px;float:right;" alt="Qiong Chen" />](https://www.chenq.site) 
+
+Email: Chenq08@126.com；个人主页：<https://chenq.site>；[<img src="https://www.chenq.site/images/qc.jpeg" style="max-width:20%;min-width:8px;float:right;border-radius:50%;" alt="Qiong Chen" />](https://www.chenq.site) 
 
 [<img src="https://simpleicons.org/icons/googlescholar.svg" style="max-width:4%;min-width:3px;float:left;" alt="Google Scholar" />](https://scholar.google.com/citations?user=KKgW5AwAAAAJ&hl=en)   [Google Scholar](https://scholar.google.com/citations?user=KKgW5AwAAAAJ&hl=en)
 
